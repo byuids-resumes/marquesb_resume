@@ -13,7 +13,7 @@ Computer Science student at Brigham Young University-Idaho.
 
 ## Education
 
-### Bachelor of Science in Computer Science
+### Bachelor of Computer Science
 
 `Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
