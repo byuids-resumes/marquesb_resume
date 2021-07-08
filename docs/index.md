@@ -33,7 +33,7 @@ __The Church of Jesus Christ of Latter-day Saints__, Salt Lake City, UT
 
 ### IT Technician
 
-`January 2021 - April 2021`
+`January 2021 - Current`
 __Brigham Young University-Idaho__, Rexburg, ID
 
 - Fixed software and hardware issues on faculty, student, and campus owned computers.
