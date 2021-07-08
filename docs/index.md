@@ -7,7 +7,7 @@ Computer Science student at Brigham Young University-Idaho.
 
 <div id="webaddress">
 <a href="4thmarques@gmail.com">4thmarques@gmail.com</a>
-| <a onclick="window.open('www.linkedin.com/in/brendonmarques', '_self');">LinkedIn</a>
+| <a href="www.linkedin.com/in/brendonmarques">LinkedIn</a>
 | <a href="https://github.com/marqzbrendon">GitHub</a>
 </div>
 
@@ -22,7 +22,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 
 ## Related Experience
-I would add specific programming languages you know here
 
 ### Software Enginnering Internship
 
@@ -44,6 +43,8 @@ __Brigham Young University-Idaho__, Rexburg, ID
 
 `2014-2016`
 __Service Missionary__, Salt Lake City, UT
+
+
 
 <!-- ### Footer
 
