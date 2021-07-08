@@ -3,16 +3,13 @@ layout: cv
 title: Brendon Marques' Resume
 ---
 # Brendon Marques
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+Computer Science student at Brigham Young University-Idaho.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="4thmarques@gmail.com">4thmarques@gmail.com</a>
+<a href="www.linkedin.com/in/brendonmarques">LinkedIn</a>
+| <a href="https://github.com/marqzbrendon">GitHub</a>
 </div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
