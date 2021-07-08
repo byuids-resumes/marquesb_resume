@@ -44,7 +44,7 @@ __Brigham Young University-Idaho__, Rexburg, ID
 `2014-2016`
 __Service Missionary__, Salt Lake City, UT
 
-
+I would add specific programming languages you know here
 
 <!-- ### Footer
 
