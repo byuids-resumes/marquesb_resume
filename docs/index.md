@@ -13,27 +13,23 @@ Computer Science student at Brigham Young University-Idaho.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+### Bachelor of Science in Computer Science
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Full academic scholarship with 3.96 GPA
 
 
 ## Related Experience
 
-### Internships
+### Software Enginnering Internship
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`January 2021 - April 2021`
+__The Church of Jesus Christ of Latter-day Saints__, Salt Lake City, UT
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Built a web application using the Angular framework for the front-end and Kotlin for the back-end.
+- Wrote 100+ unit tests.
 
 ### Data Science Lead
 
