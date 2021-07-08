@@ -7,8 +7,8 @@ Computer Science student at Brigham Young University-Idaho.
 
 <div id="webaddress">
 4thmarques@gmail.com
-| <a href="https://www.linkedin.com/in/brendonmarques">LinkedIn</a>
-| <a href="https://github.com/marqzbrendon">GitHub</a>
+| <a href="https://www.linkedin.com/in/brendonmarques" target="_blank">LinkedIn</a>
+| <a href="https://github.com/marqzbrendon" target="_blank">GitHub</a>
 </div>
 
 ## Education
