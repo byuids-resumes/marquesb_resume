@@ -6,8 +6,8 @@ title: Brendon Marques' Resume
 Computer Science student at Brigham Young University-Idaho.
 
 <div id="webaddress">
-<a href="4thmarques@gmail.com">4thmarques@gmail.com</a>
-| <a href="www.linkedin.com/in/brendonmarques">LinkedIn</a>
+4thmarques@gmail.com
+| <a href="https://www.linkedin.com/in/brendonmarques">LinkedIn</a>
 | <a href="https://github.com/marqzbrendon">GitHub</a>
 </div>
 
@@ -46,8 +46,8 @@ __Service Missionary__, Salt Lake City, UT
 
 
 
-<!-- ### Footer
+### Footer
 
-Last updated: July 2021 -->
+Last updated: July 2021
 
 
