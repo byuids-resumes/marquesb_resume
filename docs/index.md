@@ -41,7 +41,7 @@ __The Church of Jesus Christ of Latter-day Saints__, Salt Lake City, UT
 __Brigham Young University-Idaho__, Rexburg, ID
 
 - Fixed software and hardware issues on faculty, student, and campus owned computers.
-- As a Project Lead, I helped to lead the install and replacement of hundreds of school computers.
+- As a Project Lead, I helped leading the install and replacement of hundreds of school computers.
 
 ## Personal Projects
 - Budgeting application using the Kotlin language and Firestore cloud database. Source code available <a href="https://github.com/marqzbrendon/BudgetApp" target="_blank">here</a>.
