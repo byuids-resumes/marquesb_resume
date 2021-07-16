@@ -21,9 +21,9 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Full academic scholarship with 3.96 GPA
 
 ## Skills
-- Programming languages: C++, Python, Kotlin, JavaScript, TypeScript
-- Frameworks: Angular
-- Databases: SQL, Firestore
+- __Programming languages__: C++, Python, Kotlin, JavaScript, TypeScript
+- __Frameworks__: Angular
+- __Databases__: SQL, Firestore
 
 ## Related Experiences
 
@@ -44,9 +44,11 @@ __Brigham Young University-Idaho__, Rexburg, ID
 - As a Project Lead, I helped leading the install and replacement of hundreds of school computers.
 
 ## Personal Projects
-- Budgeting application using the Kotlin language and Firestore cloud database. Source code available <a href="https://github.com/marqzbrendon/BudgetApp" target="_blank">here</a>.
-- Android app that generates mathematical problems to be solved. The use of Firestore cloud database allows the game to be multiplayer. App written in Kotlin using Android Studio. Source code available <a href="https://github.com/marqzbrendon/Awesome_Fun_Game" target="_blank">here</a>.
-- GIS mapping application that tracks flights headed towards LAX International Airport. Written using JavaScript. Data pulled from the aviationstack API. Source code available <a href="https://github.com/marqzbrendon/flight_tracker" target="_blank">here</a>.
+- __Budget App__: Budgeting application using the Kotlin language and Firestore cloud database. Source code available <a href="https://github.com/marqzbrendon/BudgetApp" target="_blank">here</a>.
+
+- __Math Game__: Android app that generates mathematical problems to be solved. The use of Firestore cloud database allows the game to be multiplayer. App written in Kotlin using Android Studio. Source code available <a href="https://github.com/marqzbrendon/Awesome_Fun_Game" target="_blank">here</a>.
+
+- __Flight Tracker__: GIS mapping application that tracks flights headed towards LAX International Airport. Written using JavaScript. Data pulled from the aviationstack API. Source code available <a href="https://github.com/marqzbrendon/flight_tracker" target="_blank">here</a>.
 
 
 
