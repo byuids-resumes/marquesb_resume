@@ -20,8 +20,12 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - Full academic scholarship with 3.96 GPA
 
+## Skills
+- Programming languages: C++, Python, Kotlin, JavaScript, TypeScript
+- Frameworks: Angular
+- Databases: SQL, Firestore
 
-## Related Experience
+## Related Experiences
 
 ### Software Enginnering Internship
 
@@ -39,10 +43,10 @@ __Brigham Young University-Idaho__, Rexburg, ID
 - Fixed software and hardware issues on faculty, student, and campus owned computers.
 - As a Project Lead, I helped to lead the install and replacement of hundreds of school computers.
 
-## Service and Work History
-
-`2014-2016`
-__Service Missionary__, Salt Lake City, UT
+## Personal Projects
+- Budgeting application using the Kotlin language and Firestore cloud database. Source code available <a href="https://github.com/marqzbrendon/BudgetApp" target="_blank">here</a>.
+- Android app that generates mathematical problems to be solved. The use of Firestore cloud database allows the game to be multiplayer. App written in Kotlin using Android Studio. Source code available <a href="https://github.com/marqzbrendon/Awesome_Fun_Game" target="_blank">here</a>.
+- GIS mapping application that tracks flights headed towards LAX International Airport. Written using JavaScript. Data pulled from the aviationstack API. Source code available <a href="https://github.com/marqzbrendon/flight_tracker" target="_blank">here</a>.
 
 
 
